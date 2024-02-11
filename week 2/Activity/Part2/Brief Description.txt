@@ -1,0 +1,8 @@
+The gun and the bomb classes are child classes for the abstract class weapon 
+when calling the method fireweapon(), the fireweapon method implemented in weapon class 
+will be executed. 
+
+//overriding 
+The same method was defined again in the child classes, this is called override. 
+When Bomb call fireweapon() , the method defined in bomb will be executed . 
+When Gun call fireweapon() , the method defined in gun will be executed . 

@@ -1,0 +1,3 @@
+The two classes Superman and Batman are inherited from the class SuperHero. That means that superhero is the parent class 
+and superman and batman are the children to this class. Superman and Batamn can use the methods identified in the parent class 
+superhero. so whenever one of the heros attack each others, the attack method in SuperHero will be executed. 
