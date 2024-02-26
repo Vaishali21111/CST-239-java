@@ -1,0 +1,6 @@
+harry|potter|21
+marc|dallas|24
+brad|pitt|45
+billie|eilish|37
+miley|cyrus|49
+

@@ -1,0 +1,6 @@
+{"name": "weapon", "description": "A powerful weapon", "price": 100, "quantity": 10}
+{"name": "health", "description": "A healing item", "price": 50, "quantity": 20}
+{"name": "gun", "description": "A firearm", "price": 200, "quantity": 5}
+{"name": "armor", "description": "Protective gear", "price": 150, "quantity": 8}
+{"name": "consumable", "description": "Single-use item", "price": 30, "quantity": 15}
+
